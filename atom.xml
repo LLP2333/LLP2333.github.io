@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://LLP2333.github.io</id>
+    <title>孤岛</title>
+    <updated>2021-09-28T11:34:29.179Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://LLP2333.github.io"/>
+    <link rel="self" href="https://LLP2333.github.io/atom.xml"/>
+    <subtitle>温故而知新</subtitle>
+    <logo>https://LLP2333.github.io/images/avatar.png</logo>
+    <icon>https://LLP2333.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2021, 孤岛</rights>
+    <entry>
+        <title type="html"><![CDATA[今日故事《坐井观天》]]></title>
+        <id>https://LLP2333.github.io/post/jin-ri-gu-shi-lesslesszuo-jing-guan-tian-greatergreater/</id>
+        <link href="https://LLP2333.github.io/post/jin-ri-gu-shi-lesslesszuo-jing-guan-tian-greatergreater/">
+        </link>
+        <updated>2021-09-28T11:28:38.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://github.com/LLP2333/MyPicture/blob/main/%E5%9D%90%E4%BA%95%E8%A7%82%E5%A4%A9.jpg?raw=true" alt="image text" loading="lazy"></figure>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[这是我的第一个个人博客]]></title>
+        <id>https://LLP2333.github.io/post/nask/</id>
+        <link href="https://LLP2333.github.io/post/nask/">
+        </link>
+        <updated>2021-09-25T11:20:56.000Z</updated>
+        <content type="html"><![CDATA[<p>啦啦啦</p>
+]]></content>
+    </entry>
+</feed>
